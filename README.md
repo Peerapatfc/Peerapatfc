@@ -29,6 +29,7 @@
 ## Featured projects
 
 - [**medusa-thai-payments**](https://github.com/Peerapatfc/medusa-thai-payments): PromptPay QR payment provider for Medusa v2 via Opn Payments (Omise). Signature-verified webhooks, re-fetches charges instead of trusting payloads, 23 unit tests, CI.
+- [**medusa-thai-shipping**](https://github.com/Peerapatfc/medusa-thai-shipping): Medusa v2 fulfillment provider with weight-band carrier rates, remote-area surcharges, and validation against all 77 provinces and 7,436 Thai sub-districts. 33 unit tests, CI.
 - [**Forex-AI-Trade**](https://github.com/Peerapatfc/Forex-AI-Trade): trading bot where Claude and Gemini must agree on a signal before any trade. FastAPI backend, Next.js dashboard, 205 tests, CI, VPS/Render deployment.
 - [**smart-diet**](https://github.com/Peerapatfc/smart-diet): Next.js 16 + TypeScript nutrition tracker with AI food-photo analysis (Gemini) and Supabase auth/sync.
 - [**pmanager-scrape**](https://github.com/Peerapatfc/pmanager-scrape): market scraper and analyzer that writes to Google Sheets and sends Telegram alerts for profitable transfers.
